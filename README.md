@@ -34,7 +34,7 @@ couraseware文件夹下保存了PDF版课件，有待更新
  |--|--|--|
 | 刘芳睿| lfr2009@mail.ustc.edu.cn | 科技楼西楼917
 | 张燚鑫 | zhyx12@mail.ustc.edu.cn | 科技楼西楼917
-| 张秀丽 | xlzhang2@mail.ustc.edu.cn | 科技楼西楼915
-| 邱胜彦 | 2487573411@qq.com | 电二楼312
+| 张秀丽 | xlzhang2@mail.ustc.edu.cn | 电二楼312
+| 邱胜彦 | 2487573411@qq.com | 科技楼西楼915
 
 
